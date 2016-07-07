@@ -15,7 +15,10 @@ Implementations of Algorithms
   A Greedy implementation for filing up a knapsack with provided elements. Since the sorting algorithm chosen is insertion-sort, worst-case complexity leads to   an polynomial time - O(n^2).
 
 [Multiplication of Numbers]:
-  Multiplying two numbers in linear-time. O(n)
+  Multiplying two numbers in linear-time. O(log(n))
+
+[Merge Sort]:
+  Using a Divide-and-Conquer strategy to sort an unsorted list of elements. Complexity is - O(n*log(n)
 
 [Binary Search]:
-  Using a Divide-and-Conquer strategy on an already sorted list, implementing a very basic algorithm for search through a list of elements and recursively        searching for the element. Search complexity is logarithmic again. O(log n) 
+  Using a Divide-and-Conquer strategy on an already sorted list, implementing a very basic algorithm for search through a list of elements and recursively        searching for the element. Search complexity is logarithmic again. O(log n)
