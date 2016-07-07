@@ -20,5 +20,10 @@ Implementations of Algorithms
 [Merge Sort]:
   Using a Divide-and-Conquer strategy to sort an unsorted list of elements. Complexity is - O(n*log(n)
 
+[Quick Sort]:
+  Using a Divide-and-Conquer strategy to sort an unsorted list of elements. Complexity is - 
+  Average-case - O(n*log(n))
+  Worst-case - O(n^2)
+
 [Binary Search]:
   Using a Divide-and-Conquer strategy on an already sorted list, implementing a very basic algorithm for search through a list of elements and recursively        searching for the element. Search complexity is logarithmic again. O(log n)
