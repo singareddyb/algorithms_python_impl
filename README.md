@@ -25,5 +25,9 @@ Implementations of Algorithms
   Average-case - O(n*log(n))
   Worst-case - O(n^2)
 
+[Quick Sort 3-way partition]:
+  Using a Divide-and-Conquer strategy to sort a list with a number of equal elements. Complexity is -
+  Worst-case - O(n*log(n)) 
+
 [Binary Search]:
   Using a Divide-and-Conquer strategy on an already sorted list, implementing a very basic algorithm for search through a list of elements and recursively        searching for the element. Search complexity is logarithmic again. O(log n)
