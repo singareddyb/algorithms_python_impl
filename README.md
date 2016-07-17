@@ -14,6 +14,9 @@ Implementations of Algorithms
 [Fractional Knapsack]:
   A Greedy implementation for filing up a knapsack with provided elements. Since the sorting algorithm chosen is insertion-sort, worst-case complexity leads to   an polynomial time - O(n^2).
 
+[0-1 Knapsack]:
+  A Dynamic Programming implementation for filing up a knapsack with either an item/or not so as to achieve the maximum weight. (Non-repeatable)
+
 [Multiplication of Numbers]:
   Multiplying two numbers in linear-time. O(log(n))
 
@@ -31,3 +34,7 @@ Implementations of Algorithms
 
 [Binary Search]:
   Using a Divide-and-Conquer strategy on an already sorted list, implementing a very basic algorithm for search through a list of elements and recursively        searching for the element. Search complexity is logarithmic again. O(log n)
+
+
+[Minimum Edit Distance]:
+  A Dynamic Programming implementation for determining the minimum number of operations needed to convert string-A to string-B.
